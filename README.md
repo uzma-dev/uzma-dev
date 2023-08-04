@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzma-dev
 - 👀 I’m interested in javaScript, DSA.
-- 🌱 I’m currently learning Development.
+- 🌱 I’m currently learning Software Development and Practising DSA.
 - 💞️ I’m looking to collaborate on any openSource projects. 
 - 📫 How to reach me shaikuzma2023@gmail.com
 
